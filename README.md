@@ -1,1 +1,1 @@
-# My Practical1 for DEVOPS
+# My practical1 of DEVOPS
